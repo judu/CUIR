@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="/home/judu/projets/fac/formel/AB/CUIR/bdp/expand_src" old_decomp_dir="/home/judu/projets/fac/formel/AB/CUIR/bdp/src">
+        <!-- Definition directory list -->
+        <!-- Component file list -->
+        <component_file path="/home/judu/projets/fac/formel/AB/CUIR" name="CtxServices" suffix="mch" user="judu">
+            <component name="CtxServices" type="specification" />
+        </component_file>
+        <component_file path="/home/judu/projets/fac/formel/AB/CUIR" name="ProcManager" suffix="mch" user="judu">
+            <component name="ProcManager" type="specification" />
+        </component_file>
+        <component_file path="/home/judu/projets/fac/formel/AB/CUIR" name="ServManager" suffix="mch" user="judu">
+            <component name="ServManager" type="specification" />
+        </component_file>
+    </project>
+</db_xml>
